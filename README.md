@@ -16,3 +16,5 @@ The user profile page allows users to view and edit their account details.
     Upload profile picture to /api/users/me/photo endpoint.
     Use authorization token in API requests to prevent editing other profiles.
     Show read-only join date from user object.
+    
+![m-uzairk92-gmail-com-profile-page](https://github.com/muzairk92/UserProfileUI/assets/33150849/89822e88-8cb1-48de-bdee-26d45716871c)
