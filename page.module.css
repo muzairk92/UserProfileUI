@@ -1,0 +1,28 @@
+.container {
+  padding: 0 1.5rem;
+  width: 1200px;
+  max-width: 100%;
+  height: 100%;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dflex {
+  display: flex;
+}
+.justifyContentCenter {
+  justify-content: center;
+}
+.alignItemsCenter {
+  align-items: center;
+}
+
+.justifyContentSpaceBetween {
+  justify-content: space-between;
+}
+
+.flexColumn {
+  flex-direction: column;
+}
